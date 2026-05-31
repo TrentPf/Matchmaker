@@ -1,6 +1,6 @@
 # Project
 
-This project was completed as a final team project over a period of just over a week for Lighthouse Labs' web development bootcamp. 
+This project was completed as a final team project for Lighthouse Labs' web development bootcamp. 
 
 # Matchmaker
 
